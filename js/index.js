@@ -1,5 +1,5 @@
 var n = Number(prompt('write the number'));
-document.write('rec n-ne f= ' + f(n) + '<br>');
+document.write('recursion n-ne f= ' + f(n) + '<br>');
 
 function f(n) {
     if (n <= 2) {
